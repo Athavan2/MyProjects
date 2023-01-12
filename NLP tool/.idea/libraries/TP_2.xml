@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TP 2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dataset2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dataset.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

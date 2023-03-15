@@ -4,7 +4,6 @@ import edu.stanford.nlp.pipeline.*;
 import java.nio.file.*;
 import java.util.*;
 
-//Tp2 2015: Athavan Pathmanathan (20181966) et Vyncent Larose (20189960)
 
 public class Main {
     //attributes

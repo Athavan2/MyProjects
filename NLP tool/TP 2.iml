@@ -9,81 +9,20 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="openjdk-19" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../../../Uni/OneDrive - Universite de Montreal/Bac/Session 4 A22/IFT 2015/TP2/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../../../Uni/OneDrive - Universite de Montreal/Bac/Session 4 A22/IFT 2015/TP2/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" />
-          <root url="file://$MODULE_DIR$/../../../Uni/OneDrive - Universite de Montreal/Bac/Session 4 A22/IFT 2015/TP2/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" />
-        </SOURCES>
-        <jarDirectory url="file://$MODULE_DIR$/../../../Uni/OneDrive - Universite de Montreal/Bac/Session 4 A22/IFT 2015/TP2/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" recursive="false" />
-        <jarDirectory url="file://$MODULE_DIR$/../../../Uni/OneDrive - Universite de Montreal/Bac/Session 4 A22/IFT 2015/TP2/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
-        <jarDirectory url="file://$MODULE_DIR$/../../../Uni/OneDrive - Universite de Montreal/Bac/Session 4 A22/IFT 2015/TP2/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$USER_HOME$/Tout pour prog/stanford-corenlp-4.5.1" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/Tout pour prog/stanford-corenlp-4.5.1" />
-          <root url="file://$USER_HOME$/Tout pour prog/stanford-corenlp-4.5.1" />
-        </SOURCES>
-        <jarDirectory url="file://$USER_HOME$/Tout pour prog/stanford-corenlp-4.5.1" recursive="false" />
-        <jarDirectory url="file://$USER_HOME$/Tout pour prog/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
-        <jarDirectory url="file://$USER_HOME$/Tout pour prog/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../../../Uni/Bac/Tout pour prog/stanford-corenlp-4.5.1" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../../../Uni/Bac/Tout pour prog/stanford-corenlp-4.5.1" />
-          <root url="file://$MODULE_DIR$/../../../Uni/Bac/Tout pour prog/stanford-corenlp-4.5.1" />
-        </SOURCES>
-        <jarDirectory url="file://$MODULE_DIR$/../../../Uni/Bac/Tout pour prog/stanford-corenlp-4.5.1" recursive="false" />
-        <jarDirectory url="file://$MODULE_DIR$/../../../Uni/Bac/Tout pour prog/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
-        <jarDirectory url="file://$MODULE_DIR$/../../../Uni/Bac/Tout pour prog/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../../../../Tout pour prog/stanford-corenlp-4.5.1" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../../../../Tout pour prog/stanford-corenlp-4.5.1" />
-          <root url="file://$MODULE_DIR$/../../../../Tout pour prog/stanford-corenlp-4.5.1" />
-        </SOURCES>
-        <jarDirectory url="file://$MODULE_DIR$/../../../../Tout pour prog/stanford-corenlp-4.5.1" recursive="false" />
-        <jarDirectory url="file://$MODULE_DIR$/../../../../Tout pour prog/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
-        <jarDirectory url="file://$MODULE_DIR$/../../../../Tout pour prog/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="file://$USER_HOME$/Downloads/stanford-corenlp-4.5.1" />
+          <root url="file://$MODULE_DIR$/../Librairies/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/Downloads/stanford-corenlp-4.5.1" />
-          <root url="file://$USER_HOME$/Downloads/stanford-corenlp-4.5.1" />
+          <root url="file://$MODULE_DIR$/../Librairies/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" />
+          <root url="file://$MODULE_DIR$/../Librairies/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" />
         </SOURCES>
-        <jarDirectory url="file://$USER_HOME$/Downloads/stanford-corenlp-4.5.1" recursive="false" />
-        <jarDirectory url="file://$USER_HOME$/Downloads/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
-        <jarDirectory url="file://$USER_HOME$/Downloads/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/../Librairies/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../Librairies/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
   </component>

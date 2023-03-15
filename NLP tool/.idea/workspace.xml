@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7735b12-8b6b-4e09-8efc-35c58d88dc66" name="Changes" comment="" />
+    <list default="true" id="a7735b12-8b6b-4e09-8efc-35c58d88dc66" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/TP_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/TP_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TP 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/901.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/901.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/902.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/902.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/903.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/903.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset2/900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset2/900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset2/901.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset2/901.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset2/902.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset2/902.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset2/903.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset2/903.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query.txt" beforeDir="false" afterPath="$PROJECT_DIR$/query.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FileMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NewEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NewEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UnsortedTableMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnsortedTableMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WordMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WordMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tile Matching/Tile Matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Tile Matching/Tile Matching.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,24 +59,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ravi/Desktop/Uni/Bac/Session 4 A22/IFT 2015/TP2 not in github/TP2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Athav/Desktop/Travaux Github/MyProjects/Librairies/stanford-corenlp-4.5.1/stanford-corenlp-4.5.1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ravi\Desktop\New TP2 2015\Tp2 Avec generique\TP 2\src\main\java" />
@@ -106,6 +133,7 @@
       <workItem from="1672023736573" duration="261000" />
       <workItem from="1672096599598" duration="4358000" />
       <workItem from="1672164793453" duration="88000" />
+      <workItem from="1678844192173" duration="772000" />
     </task>
     <servers />
   </component>
